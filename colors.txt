@@ -1,0 +1,2 @@
+purple gradient #10051D #533549
+yellow gradient #F9ED4E #F6B042
