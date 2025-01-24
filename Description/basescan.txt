@@ -1,1 +1,18 @@
+Blockchain AI on future prediction
+
 The Satori Network aims at forecasting the global future with its network of AI nodes. Each node watches highlevel data streams such as gov. or econ metrics, etc. They broadcast their predictions of these streams to the rest of the network. Together they correlate changes in macroscale trends.
+
+socials:
+
+https://satorinet.io/vision
+https://github.com/satorinetwork
+https://x.com/Satorinetio
+https://discord.gg/5aC2ewn9Hj
+https://t.me/satorinetwork
+https://www.reddit.com/r/SatoriNetwork/
+https://www.facebook.com/satorinetio
+https://www.linkedin.com/company/satorinet
+https://medium.com/@jordan.kay/satori-year-end-b2384ec6ee8f
+
+https://coinmarketcap.com/currencies/satori-network/
+https://www.coingecko.com/en/coins/satori-network
