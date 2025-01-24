@@ -1,0 +1,1 @@
+The Satori Network aims at forecasting the global future with its network of AI nodes. Each node watches highlevel data streams such as gov. or econ metrics, etc. They broadcast their predictions of these streams to the rest of the network. Together they correlate changes in macroscale trends.
